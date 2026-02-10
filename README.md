@@ -123,17 +123,12 @@ hospital.html
 
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/40414a08-6e47-446a-b463-0e84b01243b2" />
 
-![alt text](image-1.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aac9f37d-2010-4631-90e6-3caeb1e90987" />
 
-![alt text](image-2.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/00fcf66a-1f95-4408-8860-9535ee070c8a" />
 
-![alt text](image-3.png)
-
-![alt text](image-4.png)
-
-![alt text](image-5.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
